@@ -13,3 +13,5 @@
 ### 4. Pricing
 
 ### 5. A Building
+
+### 6. Inheritance
