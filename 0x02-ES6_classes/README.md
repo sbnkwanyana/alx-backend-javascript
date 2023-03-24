@@ -21,3 +21,7 @@
 ### 8. Primitive - Holberton Class
 
 ### 9. Hoisting
+
+### 10. Vroom
+
+### 11. EVCar
