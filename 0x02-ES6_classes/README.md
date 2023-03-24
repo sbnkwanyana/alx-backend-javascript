@@ -9,3 +9,5 @@
 ### 2. A Course, Getters, and Setters
 
 ### 3. Methods, static methods, computed methods names..... MONEY
+
+### 4. Pricing
